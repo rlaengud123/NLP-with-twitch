@@ -1,0 +1,2 @@
+Requirement already satisfied: gluonnlp in c:\users\for_someday\anaconda3\envs\kobert\lib\site-packages (0.6.0)
+Requirement already satisfied: numpy in c:\users\for_someday\anaconda3\envs\kobert\lib\site-packages (from gluonnlp) (1.14.6)
